@@ -50,16 +50,17 @@ An incomplete setup can cause black screens, disconnected keyboards, undetected 
 7. In **Inventory**, expand **Cables** and select **HDMI to HDMI Cable**.
 8. In **Selected Item**, drag one HDMI connector to the **HDMI port on the computer**.
 9. Drag the other HDMI connector to the **HDMI port on the monitor**.
-10. In **Inventory**, choose **AC Power Cable**.
-11. Drag the female power connector to the power port indicated in the simulation; drag the male connector to the **wall outlet**.
-12. In **Inventory → Peripherals**, drag the **Keyboard** to an available **USB port** on the computer.
-13. Drag the **Mouse** to another available **USB port**.
-14. Change both the monitor and computer to their **Front** views.
-15. Press the **monitor power button**.
-16. Press the **computer power button**.
-17. Check that the workstation turns on and the monitor receives an image.
+    <img width="1141" height="756" alt="image" src="https://github.com/user-attachments/assets/9e16ef0f-021f-4537-8b23-a62d5db2d6ba" />
 
-**Source detail to watch:** The supplied instructions call step 11 “Provide power to the monitor,” but also say the female cable goes to the back of the *computer*. If the simulator presents both ports, follow the highlighted target and the lab's task indicator rather than assuming the wording is consistent.
+11. In **Inventory**, choose **AC Power Cable**.
+12. Drag the female power connector to the power port indicated in the simulation; drag the male connector to the **wall outlet**.
+13. In **Inventory → Peripherals**, drag the **Keyboard** to an available **USB port** on the computer.
+14. Drag the **Mouse** to another available **USB port**.
+15. Change both the monitor and computer to their **Front** views.
+16. Press the **monitor power button**.
+17. Press the **computer power button**.
+18. Check that the workstation turns on and the monitor receives an image.
+
 
 **Why each major action matters:** HDMI carries video; USB connects the keyboard and mouse; the power cable supplies electricity; pressing power starts the system.
 

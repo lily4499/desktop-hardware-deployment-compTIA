@@ -5,8 +5,6 @@
 **Environment:** CompTIA virtual hardware lab  
 **Project type:** Portfolio project built from seven separate CompTIA labs
 
-> **Documentation note:** The seven labs below are separate CompTIA simulations. I grouped them into one realistic *example business scenario* for a portfolio; the company and business request are illustrative, not a claim that work was performed for a real client. The accompanying `assets/` images show the **task instructions provided**, not before-and-after proof. Add your own screenshots/results as you complete each lab.
-
 ## 1. Real-world context: why this project matters
 
 A growing office needs several computers ready for employees. A support technician must assemble desks, connect screens and peripheral devices, choose compatible replacement parts, install graphics hardware, configure two-monitor workstations, and prepare a higher-capacity workstation for audio/video work.

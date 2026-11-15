@@ -56,23 +56,21 @@ An incomplete setup can cause black screens, disconnected keyboards, undetected 
 12. Drag the female power connector to the power port indicated in the simulation; drag the male connector to the **wall outlet**.
 <img width="995" height="773" alt="image" src="https://github.com/user-attachments/assets/ecef84d7-db6b-4b53-9aca-ff6deb42f9a2" />
 
-14. In **Inventory → Peripherals**, drag the **Keyboard** to an available **USB port** on the computer.
-<img width="1731" height="809" alt="image" src="https://github.com/user-attachments/assets/689746b4-4b08-41c8-8288-1c999e5c4244" />
+14. In **Inventory → Peripherals**, drag the **Keyboard** to an available **USB port, cable type A** on the computer.
+<img width="1212" height="786" alt="image" src="https://github.com/user-attachments/assets/f924a71f-e033-44ad-a9d3-50bde99d9680" />
 
-16. Drag the **Mouse** to another available **USB port**.
-17. Change both the monitor and computer to their **Front** views.
-18. Press the **monitor power button**.
-19. Press the **computer power button**.
-20. Check that the workstation turns on and the monitor receives an image.
 
+16. Drag the **Mouse** to another available **USB port, cable type A**.
+<img width="1099" height="761" alt="image" src="https://github.com/user-attachments/assets/d046bcdd-ce35-4601-b421-073dece2a059" />
+
+18. Change both the monitor and computer to their **Front** views.
+19. Press the **monitor power button**.
+20. Press the **computer power button**.
+21. Check that the workstation turns on and the monitor receives an image.
+<img width="1331" height="768" alt="image" src="https://github.com/user-attachments/assets/2ac32d34-c13b-41ec-86e6-659d5468be68" />
 
 **Why each major action matters:** HDMI carries video; USB connects the keyboard and mouse; the power cable supplies electricity; pressing power starts the system.
 
-**Evidence to capture:** Monitor placed in Workspace; HDMI connection visible at the rear; keyboard/mouse connections; powered-on workstation.
-
-**Reference instruction screenshot:**
-
-![CompTIA Lab 2.1.2 instructions](assets/lab-2-1-2-instructions.png)
 
 ---
 

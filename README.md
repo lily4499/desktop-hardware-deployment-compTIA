@@ -92,6 +92,7 @@ An incomplete setup can cause black screens, disconnected keyboards, undetected 
 6. In **Selected Item**, drag the **USB Mini-B Vertical Connector** to the back of the USB hub.
 7. Drag the **USB Type A Standard Connector** to an open USB port on the back of the computer.
 8. Switch the USB hub to its **Front** view to see its open ports.
+<img width="843" height="709" alt="image" src="https://github.com/user-attachments/assets/0b2ec09a-01ec-4d26-81fd-071628d2a40c" />
 
 **Part B — Connect the inkjet printer**
 
@@ -99,6 +100,8 @@ An incomplete setup can cause black screens, disconnected keyboards, undetected 
 10. In **Inventory**, select **USB Cable Type B (Standard) to Type A (Standard)**.
 11. Connect the **USB Type B** end to the **inkjet printer**.
 12. Connect the **USB Type A** end to an available port on the **USB hub**.
+<img width="1307" height="771" alt="image" src="https://github.com/user-attachments/assets/037f5a07-934e-4b71-94ec-31eb48f71e49" />
+
 
 **Part C — Connect the laser printer**
 
@@ -106,6 +109,8 @@ An incomplete setup can cause black screens, disconnected keyboards, undetected 
 14. In **Inventory**, select another **USB Cable Type B (Standard) to Type A (Standard)**.
 15. Connect the **USB Type B** end to the **laser printer**.
 16. Connect the **USB Type A** end to a different port on the **USB hub**.
+<img width="1364" height="770" alt="image" src="https://github.com/user-attachments/assets/c0ff3e5f-9c52-45bc-b313-978fcf20c937" />
+
 
 **Part D — Connect the scanner**
 
@@ -113,6 +118,7 @@ An incomplete setup can cause black screens, disconnected keyboards, undetected 
 18. Select another **USB Cable Type B (Standard) to Type A (Standard)**.
 19. Connect the **USB Type B** end to the **scanner**.
 20. Connect the **USB Type A** end to another port on the **USB hub**.
+<img width="1334" height="844" alt="image" src="https://github.com/user-attachments/assets/bc153e2b-7052-430f-a040-ca0aaf8911fa" />
 
 **Part E — Connect the portable hard drive**
 
@@ -122,12 +128,13 @@ An incomplete setup can cause black screens, disconnected keyboards, undetected 
 24. Connect the **USB Mini-B Vertical Connector** to the **external hard drive**.
 25. Connect the **USB Type A Standard Connector** directly to an open USB port on the **computer** (not the hub, per this lab).
 26. Review all the connections in the simulation.
+<img width="990" height="805" alt="image" src="https://github.com/user-attachments/assets/90325a38-5348-4384-a78b-bcf683366d0c" />
+
 
 **Why this matters:** USB Type-B commonly plugs into printers/scanners; Mini-B is used by these simulated devices; Type-A connects to the computer or hub.
 
 **Evidence to capture:** Hub-to-PC cable; three devices connected to the hub; portable HDD directly connected to the PC.
 
-![CompTIA Lab 2.1.7 instructions](assets/lab-2-1-7-instructions.png)
 
 ---
 
